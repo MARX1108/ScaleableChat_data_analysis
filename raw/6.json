@@ -1,0 +1,3323 @@
+[
+    {
+        "client_msg_id": "e7d715eb-b52d-487b-ad3d-b4efeeda3367",
+        "type": "message",
+        "text": "Hello?",
+        "user": "UQPD674DU",
+        "ts": "1574114169.001600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c09f640e-f142-44a6-91dc-4cdfab4eb3b2",
+        "type": "message",
+        "text": "Hi <!channel> we shall start at 5 PM",
+        "user": "UNPEBLGE4",
+        "ts": "1574114195.002000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0",
+                    "UQ67L9TR9",
+                    "UQPD674DU",
+                    "UQP2C17D5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "561c5ace-8875-443e-bef4-cc451aaabbb3",
+        "type": "message",
+        "text": "hank you for joining this conversation\/chat room. Certain snippets from this conversation may be recorded for a short while before being safely discarded. However, no personal identifier will be associated with the data. When you are finished with the task, you shall be asked certain questions in the form an online survey. After that, you shall be compensated with the 10$ Amazon Gift Card within 5 business days.",
+        "user": "UNPEBLGE4",
+        "ts": "1574114473.003100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQPD674DU",
+                    "UQLMCLSJ0",
+                    "UQP2C17D5",
+                    "UQ67L9TR9",
+                    "UQMVD4MC0"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "194a7221-dd06-411c-b6b0-22920194f9fc",
+        "type": "message",
+        "text": "Please share with everybody at least 1 aspect you like and dislike about the town of Blacksburg. (eg Duckpond, TOTs, etc.) You may justify your pick and discuss it with others.\nDoes anyone have any questions or doubts?",
+        "user": "UNPEBLGE4",
+        "ts": "1574114528.003800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6cd3cc58-5ba4-46d1-9749-9e148474b7c5",
+        "type": "message",
+        "text": "You may start now and let me know when you’re finished",
+        "user": "UNPEBLGE4",
+        "ts": "1574114547.004000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b4dd46e7-2ca7-4b50-b943-58a3f8b2cbac",
+        "type": "message",
+        "text": "College town =&gt; Noise",
+        "user": "UQPD674DU",
+        "ts": "1574114565.004800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4275ea7-6c85-4018-8924-a8ab9466e981",
+        "type": "message",
+        "text": "I enjoy the size of the town of Blacksburg, I think it is small enough to have the feel of a smaller town, but it still has most of the stores and amenities I enjoy",
+        "user": "UQLMCLSJ0",
+        "ts": "1574114599.007600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c985c99-14be-4f4a-936b-b037b7dc2d23",
+        "type": "message",
+        "text": "I dislike it's location, it is not as close to other major cities as I would like",
+        "user": "UQLMCLSJ0",
+        "ts": "1574114651.010900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa0f4e08-e7e9-4795-a9f9-8fd58b74b281",
+        "type": "message",
+        "text": "I like how Blacksburg is not too busy like a big city, but still has a sense of life in it. However, I do feel like there is a lack of activities to do within the city itself. You need to venture out to other areas to do a lot of other things.",
+        "user": "UQP2C17D5",
+        "ts": "1574114655.011000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e63f8d34-29e5-4531-bc7a-1510ba27f02b",
+        "type": "message",
+        "text": "I like the Farmer's Market in Blacksburg a lot - it feels very local and has a great sense of community",
+        "user": "UQMVD4MC0",
+        "ts": "1574114655.011100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "15e440eb-9e6e-4a85-87db-61095d7032d5",
+        "type": "message",
+        "text": "I enjoy spending time at Hahn Horticulture garden and driving around the city. Sometime it feels like I am so close to earth.",
+        "user": "UQ67L9TR9",
+        "ts": "1574114697.012800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f0275338-4608-407a-8d8e-662c5f057140",
+        "type": "message",
+        "text": "I dislike that there isn't a lot to do around Blacksburg - you have maybe 5 bars but you have to go to Christiansburg or Roanoke to do much else",
+        "user": "UQMVD4MC0",
+        "ts": "1574114698.012900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "789790cd-52ec-48e7-b1db-d99cb99a235b",
+        "type": "message",
+        "text": "Yeah I agree. I have to go to Christiansburg for more mainstream stores",
+        "user": "UQPD674DU",
+        "ts": "1574114739.014100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3bc2da6-0d59-4033-bf4e-f21559d81f3c",
+        "type": "message",
+        "text": "Or Roanoke if I want to go further",
+        "user": "UQPD674DU",
+        "ts": "1574114752.014800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e2886c88-b7c9-4d8a-8592-a70ab1d5bd14",
+        "type": "message",
+        "text": "Agreed about stores, I wish that there was a larger general store like a Walmart in Blacksburg",
+        "user": "UQLMCLSJ0",
+        "ts": "1574114775.015800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b84b9b68-b8c0-4dfa-a3d6-b63abd2da640",
+        "type": "message",
+        "text": "I agree",
+        "user": "UQ67L9TR9",
+        "ts": "1574114801.016500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6e02f59f-cf38-4b52-96f2-5573d55674e6",
+        "type": "message",
+        "text": "I heard Blacksburg promotes smaller locally owned stores, but that usually raises the prices around here.",
+        "user": "UQPD674DU",
+        "ts": "1574114851.017700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "385e42ce-00c7-4a4c-9b51-7a3f3e73a3ad",
+        "type": "message",
+        "text": "Sometime I don't like the frequently changing weather in Blacksburg mostly the wind.",
+        "user": "UQ67L9TR9",
+        "ts": "1574114905.018600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d3082709-d672-4281-b8e6-f1be34d44339",
+        "type": "message",
+        "text": "Yeah, the winters can be kinda brutal here",
+        "user": "UQP2C17D5",
+        "ts": "1574114920.019000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "59629927-6394-45c9-80b1-fb2e418d3a36",
+        "type": "message",
+        "text": "That's pretty common in SW VA.",
+        "user": "UQPD674DU",
+        "ts": "1574114928.019700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8c1df113-1d08-4070-b793-c50cebd47acc",
+        "type": "message",
+        "text": "For sure, the weather here is all over the place",
+        "user": "UQMVD4MC0",
+        "ts": "1574114934.020000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd92b45d-68c1-4cef-8d23-acf68265b863",
+        "type": "message",
+        "text": "agreed, since as college students we are frequently walking around campus the weather can be very annoying",
+        "user": "UQLMCLSJ0",
+        "ts": "1574114954.020700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e90d82f2-d54b-4d11-9ad1-1e35dace3669",
+        "type": "message",
+        "text": "It's kind of nice how the plants and trees change colors, but the amount of pollen on campus gets to me during the spring semester",
+        "user": "UQPD674DU",
+        "ts": "1574115010.021900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cca52f9-2bee-433c-a05c-37010f7fdf21",
+        "type": "message",
+        "text": "Hey that was a great disucssion! Let’s move on",
+        "user": "UNPEBLGE4",
+        "ts": "1574115084.022900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNPEBLGE4",
+            "ts": "1574115117.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQMVD4MC0",
+                    "UQ67L9TR9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25b835fe-3a07-444e-8fa8-7b36173f591d",
+        "type": "message",
+        "text": "Please discuss with the members of your group, a time for a lunch\/dinner meeting. You have to show a new Faculty Candidate around Blacksburg. The faculty candidate will be in town next week. We want to show off the restaurant scene in Blacksburg. We are unaware of his dietary restrictions. You are supposed to discuss select a (Restaurant) venue, meeting date, meeting time. Make sure that you are actually available at that time based on your schedule (for the sake of making this task more realistic). If impossible, find the time that works the best for most of you.",
+        "user": "UNPEBLGE4",
+        "ts": "1574115122.023500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNPEBLGE4",
+            "ts": "1574115132.000000"
+        }
+    },
+    {
+        "client_msg_id": "f156a3a5-a805-4854-b624-aa86eee026c0",
+        "type": "message",
+        "text": "Does anyone have any questions or doubts?",
+        "user": "UNPEBLGE4",
+        "ts": "1574115141.023800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "72af8c4a-c7fa-4459-97b9-a35ba662158c",
+        "type": "message",
+        "text": "So first, we should throw down some times,  or times we are unavailable",
+        "user": "UQPD674DU",
+        "ts": "1574115195.024900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c4130f70-ce9b-4478-a657-40d9a5ca67a9",
+        "type": "message",
+        "text": "When is everyone free? I can't do Tuesday or Wednesday",
+        "user": "UQMVD4MC0",
+        "ts": "1574115212.026000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6d5fd64d-95a4-496b-ac4c-3883b2585b41",
+        "type": "message",
+        "text": "agreed, I think that we should start after 6pm, since thats about when dinner time starts",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115215.026300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "72c5d9ce-58de-42a8-91d0-15c489ab939a",
+        "type": "message",
+        "text": "I can't do Tuesday, any other day I'm available after 4",
+        "user": "UQP2C17D5",
+        "ts": "1574115228.026900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "85bddee7-edcd-4c0d-9752-494bb982768b",
+        "type": "message",
+        "text": "I am free all days after 6pm",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115255.027900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "831dea13-9035-41f9-afa1-e757b2ff4dfd",
+        "type": "message",
+        "text": "I am free everyday after 7pm",
+        "user": "UQ67L9TR9",
+        "ts": "1574115268.028600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3af8fa82-b2ec-4722-a93e-a1ce48dc4219",
+        "type": "message",
+        "text": "Andrea -&gt; Monday, Thursday,  and Friday are ok",
+        "user": "UQPD674DU",
+        "ts": "1574115283.029100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8eb4a157-196a-4749-bb4c-c44fc2dff52b",
+        "type": "message",
+        "text": "What about Friday night?",
+        "user": "UQ67L9TR9",
+        "ts": "1574115295.029500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68b29599-5b21-444e-8a92-82c23e2c3a69",
+        "type": "message",
+        "text": "after 7pm on one of those days",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115297.029800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "baf76549-5e97-40fa-8e93-f3bff6d635f9",
+        "type": "message",
+        "text": "Friday night would work for me",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115306.030300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e3b38b05-cff2-4a04-a46d-1630caefc047",
+        "type": "message",
+        "text": "friday night works",
+        "user": "UQP2C17D5",
+        "ts": "1574115315.030800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "adaa5dbb-1b40-417f-902c-16e1bce0fcc8",
+        "type": "message",
+        "text": "Andrea + EpicGamer69 -&gt; Monday Thursday and Friday after 4",
+        "user": "UQPD674DU",
+        "ts": "1574115337.031800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fa6d3782-85de-4c34-976f-d22d7eb83a0c",
+        "type": "message",
+        "text": "We can do Friday at like 7:15 then?",
+        "user": "UQMVD4MC0",
+        "ts": "1574115344.031900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0",
+                    "UQP2C17D5",
+                    "UQ67L9TR9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "327d09db-2272-4802-b676-0f7c972fcdd4",
+        "type": "message",
+        "text": "Yeah that sounds good. Now let's choose the place",
+        "user": "UQ67L9TR9",
+        "ts": "1574115367.032900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7b9912d4-f750-4b56-8dd1-c447e50e7ec8",
+        "type": "message",
+        "text": "that would work andrea",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115372.033300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1f335048-d055-414b-92ec-874965c8ee71",
+        "type": "message",
+        "text": "And general consensus is Friday it seems",
+        "user": "UQPD674DU",
+        "ts": "1574115373.033400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2718d135-3579-4298-8fec-69aecab1ecf8",
+        "type": "message",
+        "text": "Yeah that works for me too",
+        "user": "UQPD674DU",
+        "ts": "1574115379.033800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e828daec-fdf8-4c0a-a072-fad7fc5af0e0",
+        "type": "message",
+        "text": "I think we should choose somewhere that won't be too crowded, since it will be a friday",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115394.034100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQPD674DU",
+                    "UQ67L9TR9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2de58d18-9cff-4633-8aca-25ee252ace40",
+        "type": "message",
+        "text": "and we want to be able to talk to the candidate",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115408.034500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "059a5834-1961-40d4-a1c9-3012949075c1",
+        "type": "message",
+        "text": "Any vote on where to go?",
+        "user": "UQPD674DU",
+        "ts": "1574115443.035200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "15b94cff-2333-48ee-a5f6-dd7a89677a1a",
+        "type": "message",
+        "text": "definitely a local place as well",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115458.035600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6a3d41ee-8861-4533-81db-429230350c83",
+        "type": "message",
+        "text": "Do we know what places take reservations I know a lot of the ones downtown don't",
+        "user": "UQMVD4MC0",
+        "ts": "1574115470.036400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c16db06f-6865-47a7-806f-c3ee6894f72c",
+        "type": "message",
+        "text": "I think 622 North allows for reservations",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115490.037200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ67L9TR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62fe728e-7d12-4378-b8a6-f5ed631a3fc7",
+        "type": "message",
+        "text": "what kind of food do they serve? is the atmosphere casual or more professional\/formal?",
+        "user": "UQP2C17D5",
+        "ts": "1574115549.038800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a715f4da-fa6c-4644-91b1-fb809c8aebd0",
+        "type": "message",
+        "text": "622 North would be good, I've been there and I know they have a lot of options for different diets",
+        "user": "UQMVD4MC0",
+        "ts": "1574115550.038900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "513a95bf-0c04-4a69-ad1e-a59491fdd598",
+        "type": "message",
+        "text": "It is a more formal place than most in Blacksburg I would say",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115569.039800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "559eb832-0f13-4551-912e-7ca3ec6658b0",
+        "type": "message",
+        "text": "Yeah I feel the same. It will be a good choice.",
+        "user": "UQ67L9TR9",
+        "ts": "1574115597.040500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bb42d9da-bc01-42d6-888f-e056959acdb1",
+        "type": "message",
+        "text": "is that unanimous?",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115619.040700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6bc910b8-8310-4334-aa18-d140bc838206",
+        "type": "message",
+        "text": "I'm down",
+        "user": "UQMVD4MC0",
+        "ts": "1574115631.041100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6b35e581-f11b-4adf-a5b2-43039f0f76c5",
+        "type": "message",
+        "text": "yeah, sounds good",
+        "user": "UQP2C17D5",
+        "ts": "1574115635.041500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9af2acf7-732a-481d-a922-74f716e47aff",
+        "type": "message",
+        "text": "I believe so,  anyone who objects?",
+        "user": "UQPD674DU",
+        "ts": "1574115638.041700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "371b398c-32a7-4dbb-aa24-3d8adfad68e4",
+        "type": "message",
+        "text": "Okay then it's set 622 North at 7:15pm on Friday",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115669.042200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQMVD4MC0",
+                    "UQ67L9TR9",
+                    "UQP2C17D5",
+                    "UQPD674DU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af952847-7fe0-4e2d-9980-acea6f57ac3f",
+        "type": "message",
+        "text": "Great!",
+        "user": "UNPEBLGE4",
+        "ts": "1574115686.042700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "681e990c-1e8c-4204-bbc0-c7bb8f270d8c",
+        "type": "message",
+        "text": "Let’s move on!",
+        "user": "UNPEBLGE4",
+        "ts": "1574115706.043000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "fe2bac90-5f32-43f8-9493-e8bf8cd4dcf6",
+        "type": "message",
+        "text": "You’ have been tasked with planning group travel. Plan a travel itinerary for a family trip from Blacksburg, VA to a *destination of your choice* for 7 days. The family includes a couple and two kids (Aged 5 and 9 years) with a budget of USD 4000~5000 which is inclusive of the airfare\/travel costs”\nFurthermore, at the end of this study, we need to know the following details about the travel.\nTravel Destination (Itinerary)\nTravel Dates\nPlan for each day (eg- Day 1:Statue of Liberty, Staten Island\nDay 2: Brooklyn Bridge, Manhattan Bridge, Chinatown, Day 3: Central Park, Trump Tower, etc)\nTravel Accommodation\/Stay\nTravel Means (Car\/Flight Details\/Bus or Train Routes)",
+        "user": "UNPEBLGE4",
+        "ts": "1574115722.043200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNPEBLGE4",
+            "ts": "1574115863.000000"
+        }
+    },
+    {
+        "client_msg_id": "a27f92b3-9ff2-4a2c-a73c-6bf998129d0e",
+        "type": "message",
+        "text": "Does anyone have any questions or doubts?",
+        "user": "UNPEBLGE4",
+        "ts": "1574115734.043400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ce654fd0-ff2f-49d5-b81f-dc311573f07e",
+        "type": "message",
+        "text": "You may start now and let me know when you’re finished",
+        "user": "UNPEBLGE4",
+        "ts": "1574115772.043600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6bb0e988-e7fd-4cff-883a-f514ffeb27bc",
+        "type": "message",
+        "text": "Alright let's do some research on travel tickets For 2 adults and 2 kids to these locations",
+        "user": "UQPD674DU",
+        "ts": "1574115799.044400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b53419d6-e898-4cc9-90bb-b37eb9cdcc24",
+        "type": "message",
+        "text": "okay",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115836.044600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "52f831da-88cb-47fa-b447-778255cf1adb",
+        "type": "message",
+        "text": "You may pick a different location than the ones in the task prompt",
+        "user": "UNPEBLGE4",
+        "ts": "1574115901.045200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNPEBLGE4",
+            "ts": "1574115929.000000"
+        }
+    },
+    {
+        "client_msg_id": "e26992ce-33bb-4e50-b219-a9e3cbeeea5f",
+        "type": "message",
+        "text": "I think somewhere a bit cheaper than NYC could be better, since that would be a tight fit with that budget",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115936.045900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2909ee53-a871-42d9-9894-3573b3c73e73",
+        "type": "message",
+        "text": "any ideas?",
+        "user": "UQLMCLSJ0",
+        "ts": "1574115947.046100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f3490b7c-327e-4d85-bd43-3b7d8cb14221",
+        "type": "message",
+        "text": "maybe orlando? would be appealing for a 5 and 9 year old child",
+        "user": "UQP2C17D5",
+        "ts": "1574115981.046700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "63e75431-1698-4f33-b010-3a7c05a21c72",
+        "type": "message",
+        "text": "that would be good, I did that when I was younger and it was great",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116024.047100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "64fe0c9f-7f51-4535-b49e-5451f7f96990",
+        "type": "message",
+        "text": "Not a bad idea",
+        "user": "UQ67L9TR9",
+        "ts": "1574116029.047200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3225383-e4c9-4749-aaef-86bc9ce542ac",
+        "type": "message",
+        "text": "okay so are we all good with that or there any other ideas we want to talk about first?",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116093.047700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7f6aaad9-84ea-46b1-a584-8c4145c07c52",
+        "type": "message",
+        "text": "American airlines is $104 per person",
+        "user": "UQ67L9TR9",
+        "ts": "1574116109.048000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ae60811-d78b-47ad-8016-13531f3c9247",
+        "type": "message",
+        "text": "So do we actually want to bus over",
+        "user": "UQPD674DU",
+        "ts": "1574116121.048400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "313621e5-5cf2-411f-b6d6-1c2edb1be72b",
+        "type": "message",
+        "text": "Is that one way or round trip",
+        "user": "UQMVD4MC0",
+        "ts": "1574116125.048500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "62ee1fce-9119-4f84-ac6c-7bdf9adb0967",
+        "type": "message",
+        "text": "round trip",
+        "user": "UQ67L9TR9",
+        "ts": "1574116153.049000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "601a2dbd-2a15-446e-b760-ca087d03acba",
+        "type": "message",
+        "text": "so 4500 - (104 * 4) = 4084",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116197.049800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d6370ca3-2411-4063-b3ff-a683c712226d",
+        "type": "message",
+        "text": "if we assume that middle of the budget range",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116203.050200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c410841e-9895-4c35-a2ba-c0f9eeda10b8",
+        "type": "message",
+        "text": "416 for travel*",
+        "user": "UQPD674DU",
+        "ts": "1574116211.050500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "809dab46-59f9-4120-82c3-7865b60df370",
+        "type": "message",
+        "text": "I'm assuming that the kids would want to go to disney world, since that is the main attraction for children there",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116233.051500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ad3d96c2-78d6-42fd-91c8-2a327739ec02",
+        "type": "message",
+        "text": "i assume that flight is from roanoke?",
+        "user": "UQP2C17D5",
+        "ts": "1574116244.051800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4d62c836-92b9-49e2-aa9b-234d7497458c",
+        "type": "message",
+        "text": "Most likely?",
+        "user": "UQPD674DU",
+        "ts": "1574116278.052500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "361a2563-bcde-4995-9682-4a450a41c273",
+        "type": "message",
+        "text": "transportation from the respective airports would need to be accounted for in the travel budget",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116325.053600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d95412c3-56db-4c65-b40f-dc1ceed2fe90",
+        "type": "message",
+        "text": "definitely, i think for a family with younger children renting a car down in orlando would be the safest and most logical option",
+        "user": "UQP2C17D5",
+        "ts": "1574116365.054700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0",
+                    "UQ67L9TR9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "073872e3-267b-4988-a5fe-32f66a878edf",
+        "type": "message",
+        "text": "thats a good idea",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116377.055000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90775a86-7026-4d28-b8ba-f12ec8b2201d",
+        "type": "message",
+        "text": "Any idea about the price?",
+        "user": "UQ67L9TR9",
+        "ts": "1574116390.055600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6380d16a-cf21-4d50-9b29-1f8f013a3d7b",
+        "type": "message",
+        "text": "In terms of itenerary, I think that the younger kids would probably want to spend at least 4 days in Disney world, if not more",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116417.056300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UQLMCLSJ0",
+            "ts": "1574116425.000000"
+        }
+    },
+    {
+        "client_msg_id": "ee8367c9-3b4d-433d-980e-08001cafee39",
+        "type": "message",
+        "text": "42 dollars for parking at the airport for a week.",
+        "user": "UQPD674DU",
+        "ts": "1574116433.056800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1958ab33-8b7b-4980-824c-01341546a925",
+        "type": "message",
+        "text": "The economy car is $299 per week",
+        "user": "UQ67L9TR9",
+        "ts": "1574116516.057700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "05a5e231-bdbb-46ca-abef-5ed28dc735d8",
+        "type": "message",
+        "text": "6.4 dollars for gas round trip from blacksburg to Roanoke airport assuming 30mpg",
+        "user": "UQPD674DU",
+        "ts": "1574116528.058200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3d1e07a-82af-4f42-b207-35615c42a342",
+        "type": "message",
+        "text": "so can we get a final number on transportation money then move on to itenerary?",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116542.058700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "84304570-116e-470f-abe8-79fd1d62a973",
+        "type": "message",
+        "text": "48.4 for airport parking and gas.",
+        "user": "UQPD674DU",
+        "ts": "1574116568.059400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60bde076-9ca0-48e7-9dc0-da8f4acadba0",
+        "type": "message",
+        "text": "Any ideas how how many miles were driving in the economy car?",
+        "user": "UQPD674DU",
+        "ts": "1574116621.060400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "81574c9b-1562-43bb-ae42-a3fed5bcaf02",
+        "type": "message",
+        "text": "And the mpg",
+        "user": "UQPD674DU",
+        "ts": "1574116627.060600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0c85eab9-0807-465a-a793-24f1820eb900",
+        "type": "message",
+        "text": "unlimited",
+        "user": "UQ67L9TR9",
+        "ts": "1574116652.061300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7b34ca82-7949-442a-9199-c893f44241d9",
+        "type": "message",
+        "text": "and with tax it's $397",
+        "user": "UQ67L9TR9",
+        "ts": "1574116667.062000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6ec81a81-70e6-4730-a219-06f57b0a21ed",
+        "type": "message",
+        "text": "I mean, how many miles from hotel to airport to Disney land and back",
+        "user": "UQPD674DU",
+        "ts": "1574116674.062400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d16fd06-b1ba-4859-a1e1-7f3f260de02e",
+        "type": "message",
+        "text": "What model is it?",
+        "user": "UQPD674DU",
+        "ts": "1574116701.063000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7cb29b21-d2a8-42d9-a93a-7991a0a68d65",
+        "type": "message",
+        "text": "if we get a hotel directly at disney land we shouldnt need to worry about transportation to and from there",
+        "user": "UQP2C17D5",
+        "ts": "1574116717.063200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1cc85175-3476-4fbc-9258-ba682653b8c8",
+        "type": "message",
+        "text": "i think the cost of renting the car itself will be the biggest factor",
+        "user": "UQP2C17D5",
+        "ts": "1574116730.063700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e3cc671-c169-4d41-afae-69f9a3747670",
+        "type": "message",
+        "text": "Yeah we could do that",
+        "user": "UQPD674DU",
+        "ts": "1574116730.063800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FQPGXJ50V",
+                "created": 1574116735,
+                "timestamp": 1574116735,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UQLMCLSJ0",
+                "editable": false,
+                "size": 49506,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TNRA2UMM5-FQPGXJ50V\/image.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TNRA2UMM5-FQPGXJ50V\/download\/image.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TNRA2UMM5-FQPGXJ50V-85fd87424b\/image_64.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TNRA2UMM5-FQPGXJ50V-85fd87424b\/image_80.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TNRA2UMM5-FQPGXJ50V-85fd87424b\/image_360.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "thumb_360_w": 360,
+                "thumb_360_h": 285,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TNRA2UMM5-FQPGXJ50V-85fd87424b\/image_480.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "thumb_480_w": 480,
+                "thumb_480_h": 380,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TNRA2UMM5-FQPGXJ50V-85fd87424b\/image_160.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TNRA2UMM5-FQPGXJ50V-85fd87424b\/image_720.png?t=xoxe-773342973719-832602100513-842385282951-adc88c9310a9fb3677f96e2a7652683d",
+                "thumb_720_w": 720,
+                "thumb_720_h": 569,
+                "image_exif_rotation": 1,
+                "original_w": 726,
+                "original_h": 574,
+                "thumb_tiny": "AwAlADDRIGTx+lGwf5FDDn\/69GB6\/rQAuD60Y9zS0UAJj3NLRRQA05J6D8qTB9B+VK3Xt+dALY6CgAy3p+lAJ7inUUAJk+lKKKKAEOc8GkGfX9KU0CgBaKKKACiiigD\/2Q==",
+                "permalink": "https:\/\/group-chat-study.slack.com\/files\/UQLMCLSJ0\/FQPGXJ50V\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TNRA2UMM5-FQPGXJ50V-c06e62ff4d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UQLMCLSJ0",
+        "display_as_bot": false,
+        "ts": "1574116738.063900",
+        "client_msg_id": "d30c34f7-b9a4-4cee-bd60-10f3b84e4ad9"
+    },
+    {
+        "client_msg_id": "a7927d32-01f8-41d0-b78c-fe09f2328931",
+        "type": "message",
+        "text": "this is taken from the disney website",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116746.064300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "da9e5666-5bf2-4c89-826e-339ca8f34d89",
+        "type": "message",
+        "text": "If we are able to stay in disney it could simplify the expenses significantly",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116767.065100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c7c4a0af-f2c7-42c3-972e-d2f87a54067b",
+        "type": "message",
+        "text": "so $2856 for hotel and theme park?",
+        "user": "UQP2C17D5",
+        "ts": "1574116771.065300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34d7214d-bc29-4943-9fc9-46cbf91fbff6",
+        "type": "message",
+        "text": "however, it may not be the cheapest",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116774.065500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e98b1d1d-6acc-4fc0-93b6-3a6624c1b71e",
+        "type": "message",
+        "text": "It's convenient, but yeah",
+        "user": "UQPD674DU",
+        "ts": "1574116809.066600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ67L9TR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d88814b-5189-460d-a9bf-84684529ffe4",
+        "type": "message",
+        "text": "I think we should do that",
+        "user": "UQMVD4MC0",
+        "ts": "1574116820.067000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "0a803982-7ffa-40c6-8448-cf5e89a18544",
+        "type": "message",
+        "text": "Yeah",
+        "user": "UQ67L9TR9",
+        "ts": "1574116830.067700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4bed2025-d0f5-46f6-8d31-e75fcf69e809",
+        "type": "message",
+        "text": "Hey, this is going pretty good, but let’s stop the discussion and start the next one?",
+        "user": "UNPEBLGE4",
+        "ts": "1574116837.068100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0",
+                    "UQP2C17D5",
+                    "UQ67L9TR9"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5799592-9e0d-4737-b37c-0eec229daa3c",
+        "type": "message",
+        "text": "Alright we're going with it",
+        "user": "UQPD674DU",
+        "ts": "1574116837.068200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "aa7a211b-61fb-4c9b-9278-e6ca51ef7054",
+        "type": "message",
+        "text": "okay",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116845.068600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQPD674DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dfe7385f-5886-4842-9517-8113193f13b2",
+        "type": "message",
+        "text": "Alright",
+        "user": "UNPEBLGE4",
+        "ts": "1574116869.069300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf970af5-94a1-4bc7-9fc5-49702722eb2b",
+        "type": "message",
+        "text": "This is a common fear that that AI and Machine Learning will take away jobs from Humans. What are your opinions on this? Discuss",
+        "user": "UNPEBLGE4",
+        "ts": "1574116878.069500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1a2e957c-b0cf-44a1-b4b2-5a83f6e34be8",
+        "type": "message",
+        "text": "\"Invest in the future\"",
+        "user": "UQPD674DU",
+        "ts": "1574116893.070000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "003bd309-c1ea-467e-b8d8-10bfd434f85a",
+        "type": "message",
+        "text": "I think this is inevitable",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116941.071800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a2a8eee0-78f5-4acb-8ec3-d1170e4d5e49",
+        "type": "message",
+        "text": "I think it's definitely something to be cautious about and a realistic fear",
+        "user": "UQMVD4MC0",
+        "ts": "1574116955.072200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "859e9bc3-1d34-4ebf-b757-9928b59aa64c",
+        "type": "message",
+        "text": "From a business's standpoint, it's great to save on labor costs, and it would be risky not to invest into this technology.",
+        "user": "UQPD674DU",
+        "ts": "1574116973.073000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "90ee6cc5-f47d-4499-acfb-6d60a043433b",
+        "type": "message",
+        "text": "yes strictly from a money making perspective it makes a ton of sense",
+        "user": "UQLMCLSJ0",
+        "ts": "1574116998.073900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3e88aefd-fc38-43ea-87b4-921cdd0e09ea",
+        "type": "message",
+        "text": "which is why so many companies are investing",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117017.074800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3baa0e7f-f877-45a9-97d3-265cb20884a6",
+        "type": "message",
+        "text": "But then only business owners would be making money. What about all the people who lose their jobs in the process?",
+        "user": "UQMVD4MC0",
+        "ts": "1574117032.076200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g202abd25c33",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/202abd25c3343eee0f3692019bcee38f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "Mahek",
+            "real_name": "Mahek Mehta",
+            "display_name": "Andrea Clarke",
+            "team": "TNRA2UMM5",
+            "name": "mahmehta",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4f228504-86dc-4395-a771-b4eeb3f68c70",
+        "type": "message",
+        "text": "I think that one possible way to help with this is to educate children very early on especially in public school about technology",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117066.077300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b540061c-f71c-4a2b-8c25-b6db25fe78de",
+        "type": "message",
+        "text": "They would be left out unless they lobbied Congress.",
+        "user": "UQPD674DU",
+        "ts": "1574117072.077600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dab4b861-1556-479c-9a7c-a88d34b71e43",
+        "type": "message",
+        "text": "In which bias? Towards corporations or towards the common people?",
+        "user": "UQPD674DU",
+        "ts": "1574117120.079700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d1ef791e-db6e-4c3c-8e14-aacf2cb51416",
+        "type": "message",
+        "text": "i think that we should be using ai to assist people in current jobs\/functions, but not completely replace them",
+        "user": "UQP2C17D5",
+        "ts": "1574117130.080000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "ga163a24a48a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a163a24a48ae869c3615cace079d142c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "EpicGamer69",
+            "display_name": "EpicGamer69",
+            "team": "TNRA2UMM5",
+            "name": "jamespark0823",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9523d1b4-b77a-4482-b287-ca796cd03785",
+        "type": "message",
+        "text": "Why shouldn't they replace them?",
+        "user": "UQPD674DU",
+        "ts": "1574117149.080700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "79705af5-b59b-43d8-a5e7-2c657c9c9ba2",
+        "type": "message",
+        "text": "if ai is able to do their jobs completely then why would companies keep the employees around?",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117160.081200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "951db79b-4ff3-445c-a7c8-cc569e90e7e3",
+        "type": "message",
+        "text": "No matter what, there will be always need for human employees.",
+        "user": "UQ67L9TR9",
+        "ts": "1574117194.082000",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "49151e4a-86d6-4d74-9662-6d9420f7ab79",
+        "type": "message",
+        "text": "They are the one who can fix the technology, if there is any problem.",
+        "user": "UQ67L9TR9",
+        "ts": "1574117237.083100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "75ae0517-8e5b-4459-a828-9ed211b52782",
+        "type": "message",
+        "text": "What if we have self replicating code?",
+        "user": "UQPD674DU",
+        "ts": "1574117262.084100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2119c84d-17b6-4b36-bb22-52c0cba8c41e",
+        "type": "message",
+        "text": "yes there will always be a need for humans, I think many are worried though that the number of jobs will be significantly less than the population",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117266.084200",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b9c02175-6445-4abd-947e-251557794c77",
+        "type": "message",
+        "text": "Depends on the situation (hardware?), but most models are not stable and are hard to \"fix\"",
+        "user": "UQPD674DU",
+        "ts": "1574117346.085600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1412b42d-ae6f-4839-9fe6-43336329d40f",
+        "type": "message",
+        "text": "so what would be the outcome of this?",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117429.087100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3804fcce-a26c-4806-9ec1-a8f6481706ee",
+        "type": "message",
+        "text": "I think this will cause an increase in the wage gap",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117444.087600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "07b52fad-2833-4041-98e4-b9d1b4f27522",
+        "type": "message",
+        "text": "Of course",
+        "user": "UQPD674DU",
+        "ts": "1574117454.087900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e02b3507-e6f4-412d-a12d-b00495c20264",
+        "type": "message",
+        "text": "True",
+        "user": "UQ67L9TR9",
+        "ts": "1574117462.088400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "g1aaea471a1c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aaea471a1cf914c676fc4c2338c3828.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Yesrat Rahman",
+            "display_name": "Yesrat Rahman",
+            "team": "TNRA2UMM5",
+            "name": "yr2818",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "24f21a54-c5ad-47a8-94ab-11b9fd3046e8",
+        "type": "message",
+        "text": "I like Andrew Yang's solutions to this",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117469.088600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dbea0c59-b059-4632-b9b2-f3cbd4ca93e3",
+        "type": "message",
+        "text": "perhaps creating something like universal basic income could help even things out among the population",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117509.089500",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "779b4e6f-2c8e-4055-a1c5-dec2282c1933",
+        "type": "message",
+        "text": "in the US at least",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117512.089700",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dc9503eb-8ca2-49b1-8c45-140cf4bb4008",
+        "type": "message",
+        "text": "You mean the welfare reform?",
+        "user": "UQPD674DU",
+        "ts": "1574117513.089900",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1977597e-cbe4-497e-98f9-bda1eb571ec2",
+        "type": "message",
+        "text": "I'm not exactly in favor of it.",
+        "user": "UQPD674DU",
+        "ts": "1574117525.090400",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67d27aae-b75d-4ce4-9ba0-559a1b36eca8",
+        "type": "message",
+        "text": "essentially taxing automation and redistributing that among everyone",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117541.090800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQ67L9TR9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef5847ee-a07c-4af7-b9b9-599552794796",
+        "type": "message",
+        "text": "Hey! I think this was a great discussion! Let’s move on?",
+        "user": "UNPEBLGE4",
+        "ts": "1574117619.092800",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0",
+                    "UQ67L9TR9",
+                    "UQMVD4MC0"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77e5968d-1b0d-4a31-934c-6eca40b10382",
+        "type": "message",
+        "text": "Sure",
+        "user": "UQPD674DU",
+        "ts": "1574117630.093100",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gf07655c6d6f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f07655c6d6fc2482a39714563a7b5008.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Chan",
+            "display_name": "Rrtyui",
+            "team": "TNRA2UMM5",
+            "name": "andrewclchan211",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5a95d1d9-fb07-45e1-a9c5-c80ee4e17450",
+        "type": "message",
+        "text": "This concludes the study. You shall receive a link to a survey. Would you please fill up the survey now? You shall be compensated with the 10$ Amazon Gift Card within 5 business days.\n<https:\/\/virginiatech.qualtrics.com\/jfe\/form\/SV_8GmaPCKtLch5Led>\nYour group number is 6",
+        "user": "UNPEBLGE4",
+        "ts": "1574117656.093600",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gace7a247a6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ace7a247a6d95227d558d9e6b36b6c56.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Moderator",
+            "real_name": "Moderator",
+            "display_name": "Moderator",
+            "team": "TNRA2UMM5",
+            "name": "viralpasad",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNPEBLGE4",
+            "ts": "1574117661.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLMCLSJ0",
+                    "UQ67L9TR9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c77394f-a01a-4d86-b0fd-b9ae7f5dfad5",
+        "type": "message",
+        "text": "okay, thanks for the discussion everyone",
+        "user": "UQLMCLSJ0",
+        "ts": "1574117683.094300",
+        "team": "TNRA2UMM5",
+        "user_team": "TNRA2UMM5",
+        "source_team": "TNRA2UMM5",
+        "user_profile": {
+            "avatar_hash": "gdcdb83bd997",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dcdb83bd9978f2f96408bb312d90af61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Jimmy",
+            "real_name": "Jimmy",
+            "display_name": "Jimmy",
+            "team": "TNRA2UMM5",
+            "name": "andrewf4",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UNPEBLGE4",
+                    "UQPD674DU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "100",
+                "users": [
+                    "UNPEBLGE4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]
