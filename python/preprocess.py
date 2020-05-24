@@ -40,6 +40,21 @@ col = study4['study-index'] = 4
 study4.drop(labels=['study-index'], axis=1,inplace = True)
 study4.insert(0, 'study-index', col)
 
+
+
+
+study7 = pd.read_csv("7.csv") 
+col = study7['study-index'] = 7
+study7.drop(labels=['study-index'], axis=1,inplace = True)
+study7.insert(0, 'study-index', col)
+
+
+study9 = pd.read_csv("9.csv") 
+col = study9['study-index'] = 9
+study9.drop(labels=['study-index'], axis=1,inplace = True)
+study9.insert(0, 'study-index', col)
+
+
 study5 = pd.read_csv("5.csv") 
 col = study5['study-index'] = 5
 study5.drop(labels=['study-index'], axis=1,inplace = True)
@@ -50,23 +65,12 @@ col = study6['study-index'] = 6
 study6.drop(labels=['study-index'], axis=1,inplace = True)
 study6.insert(0, 'study-index', col)
 
-study7 = pd.read_csv("7.csv") 
-col = study7['study-index'] = 7
-study7.drop(labels=['study-index'], axis=1,inplace = True)
-study7.insert(0, 'study-index', col)
-
 study8 = pd.read_csv("8.csv") 
 col = study8['study-index'] = 8
 study8.drop(labels=['study-index'], axis=1,inplace = True)
 study8.insert(0, 'study-index', col)
-
-study9 = pd.read_csv("9.csv") 
-col = study9['study-index'] = 9
-study9.drop(labels=['study-index'], axis=1,inplace = True)
-study9.insert(0, 'study-index', col)
-
 # %%
-raw = pd.concat([study4, study5, study6, study7, study8, study9])
+raw = pd.concat([study4, study7, study9, study5, study6, study8])
 
 temp_xlsx = pd.DataFrame(raw)
 temp_xlsx.to_csv('raw.csv')
@@ -76,7 +80,7 @@ temp_xlsx.to_csv('raw.csv')
 raw = pd.read_csv("raw.csv")
 df = pd.DataFrame(raw)
 pd.set_option('max_columns', 5)
-pd.set_option('max_rows', None)
+
 
 df = df[df.user != 'UQA6D5YFR']
 df = df[df.user != 'UNPEBLGE4']
